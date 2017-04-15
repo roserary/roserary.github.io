@@ -1,0 +1,137 @@
+body {
+    width: 90%; 
+    margin: auto;
+    font-family: 'Helvetica', sans-serif;
+    
+}
+.header {
+    text-align: center;
+    }
+
+
+.nav {
+    text-align: center;
+    color: black;
+}
+.nav li {
+    display: inline-block
+}
+
+.nav a {color: black;} 
+    
+a {
+    text-decoration: none;
+    padding-left: 20px;
+    text-align: center;
+   
+}
+.pages a {
+    color: #d33030;
+}
+.pages p {
+    margin: 0px 0px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.side {
+    width: 30%;
+    vertical-align: top;
+}
+.side h1 {
+    color: #d33030;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+.main {
+    width:70%;
+    background-color: green;
+    }
+img {
+    width: 100%;
+    }
+.side, .main {
+    float: left;
+}
+.footer {clear: both;}
+
+#active {
+    text-decoration: underline;
+}
+
+.footer {
+    text-transform: uppercase;
+    text-align: right;
+}
+
+
+.chv {
+  background-image: url(images/chv3.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+  width: 100%;
+}
+
+#front-text {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 25%;
+  width: 60%;
+  color: white;
+  text-transform: uppercase;
+}
+
+
+
+
+/*
+.chv {
+    background-image: url(images/chv3.jpg); 
+        background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 100%;
+    
+}
+*/
+
+
+.lakes {
+    background-image: url(images/canoe.jpg);
+        background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+height: 450px;
+    width: 100%;
+}
+
+.adirondacks {
+    background-image: url(images/dofl.png); 
+        background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 100%; 
+}
+
+.quebec {
+    background-image: url(images/oldtown.jpg); 
+        background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    width: 100%; 
+}
+
+/* This is for the east section
+.li {
+    background-image: url(images/surf.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
+ 

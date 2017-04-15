@@ -1,0 +1,34 @@
+body {
+    background-color: #efefef;
+    width: 90%;
+    }
+.header {
+    text-align: center;
+}
+.nav {
+    text-align: center;
+}
+.nav li {
+    display: inline-block
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+h1 {
+font-family: 'Dancing Script', cursive;
+}
+/* try without 
+.eat, .eatfl {display: inline-block;}
+*/
+
+.stay, .stayfl {
+    display: inline-block
+}
+.do, .dofl {
+    display: inline-block;
+}
+.eat img {
+    width: 50%;
+    height: auto;
+}

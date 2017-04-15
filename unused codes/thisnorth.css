@@ -1,0 +1,16 @@
+body {
+    width: 75%;
+    margin: auto;
+    }
+
+
+
+
+.places {text-align: center}
+
+.places div {
+    width: 40%;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}

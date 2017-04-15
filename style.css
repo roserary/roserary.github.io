@@ -1,0 +1,59 @@
+body {
+    width: 90%; 
+    margin: auto;
+    background-color: #efeded;
+    font-family: 'Helvetica', sans-serif;
+}
+
+
+.header {
+    text-align: center;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.nav {
+    text-align: center;
+}
+.nav li {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+li {
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 30px 30px;
+    text-align: center;
+}
+img {
+    width: 100%;
+    }
+.footer {
+    text-transform: uppercase;
+    text-align: right;
+    font-size: 11px;
+}
+
+#front-text {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 120px;
+  width: 45%;
+  color: #f9f4f5;
+  border: 2px solid #f9f4f5;
+}
+.front {
+  background-image: url(images/car.jpg);
+  background-position: bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 750px;
+  width: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
