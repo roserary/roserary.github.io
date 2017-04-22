@@ -59,7 +59,7 @@ a {
 
 /*I made all of the images backgrounds because I didn't know how to get words on top of a photo*/
 .chv {
-  background-image: url(images/chv3.jpg);
+  background-image: url(images/chv3.jpg); /*This image had "white space" on all sides and gave me some trouble.  Had to figure out how to work around it.*/
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

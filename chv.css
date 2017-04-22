@@ -78,7 +78,7 @@ td img {
     bottom: 60px;
     right: 15px;
     background-color: #f9f4f5;
-    border-radius: 50%;
+    border-radius: 50%; /*Tried to make this a circle, not an oval.*/
 }
 .footer {
     text-transform: uppercase;
