@@ -1,0 +1,220 @@
+body {
+    font-family: 'Poiret One', cursive;
+}
+
+.nav {
+    background-image: url("images/film.png");
+    background: cover;
+    height: 150px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: red;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+    }
+    
+.staten_main {
+    background-image: url("images/skyline.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    height: 400px;
+    border-bottom: black 1px solid;
+    
+}    
+
+.staten_main h1 {
+    text-align: center;
+    margin: 0; 
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+.quote {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    margin-top: 30px;
+    width: 70%;
+}
+
+table img {
+    width: 100%;
+}
+
+table td {
+    text-align: center;
+    width: 300px;
+    height: 150;
+    font-family: 'Slabo 13px', serif;
+    font-size: 15px;
+}
+
+.wrapper {
+    margin-top: 50px
+}
+
+.footer {
+    font-weight: bold;
+    text-align: center;
+}
+
+/* manhattan page */
+
+.m_main {
+    background-image: url("images/skyline2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    border-bottom: black 1px solid;
+}    
+
+.m_main h1 {
+    text-align: center;
+    margin: 0; 
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+.mspan {
+    color: black;
+    font-weight: bold;
+}
+
+.m_quote {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+/* Queens Page */
+
+.queens{
+    background-image: url("images/queens3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 300px;
+    border-bottom: black 1px solid;
+    
+}    
+
+.queens h1 {
+    text-align: center;
+    margin: 0; 
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+.quote {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.queenstable {
+    margin: auto;
+    margin-top: 30px;
+    width: 70%;
+    
+}
+
+.queenstable img {
+    width: 100%;
+    height: auto;
+  
+}
+
+.queenstable td {
+    text-align: center;
+    width: 300px;
+    height: 150;
+    font-family: 'Slabo 13px', serif;
+    font-size: 15px;
+}
+
+
+
+/* Brooklyn page */
+
+.bk_main {
+    background-image: url("images/dumbo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    border-bottom: black 1px solid;
+}    
+
+.bk_main h1 {
+    text-align: center;
+    margin: 0; 
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+.bk_quote {
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.bktable {
+    margin: auto;
+    margin-top: 30px;
+    width: 70%;
+    
+}
+
+.bktable img {
+    width: 100%;
+}
+
+.bktable td {
+    text-align: center;
+    width: 300px;
+    height: 150;
+    font-family: 'Slabo 13px', serif;
+    font-size: 15px;
+}
+
+.bk_wrapper {
+    margin-top: 50px
+} 
+
+/* bronx page */
+
+.bx_main {
+    background-image: url("images/sky.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    border-bottom: black 1px solid;
+}
+
+.bx_main h1 {
+    text-align: center;
+    margin: 0; 
+    font-size: 60px;
+    padding-top: 40px;
+}
